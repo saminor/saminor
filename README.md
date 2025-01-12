@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres,py,django,rabbitmq,api,fastapi" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres,py,django,rabbitmq,fastapi" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,git,postman,figma" />
   <img src="https://skillicons.dev/icons?i=" />
 </p>
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,docker,postgres,apache,grafana,zabbix" />
-  <img src="https://skillicons.dev/icons?i=github,git,gitlab,windows,linux,elasticsearch,kibana,prometheus,redis,vmwareworkstation" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,docker,postgres,grafana" />
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,windows,linux,elasticsearch,prometheus,redis,vmwareworkstation" />
 
 </p>
 
@@ -88,7 +88,6 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark" />
   <img src="https://skillicons.dev/icons?i=linux,windows,kali,tmux,tor" />
 </p>
 
