@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
-### cybersec Engineering & DevSecOps
+### CyberSecurity Engineering & DevSecOps
 
 <br>
-
 
 
 ### Contact
@@ -48,5 +47,18 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr>
+
+
+
+### 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
 
 <hr>
