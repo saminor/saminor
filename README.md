@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### cybersec Engineering & DevSecOps
 
 <br>
 
+
+
+### Contact
 <div align="center">
   <a href="saminorksr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
