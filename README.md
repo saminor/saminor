@@ -57,8 +57,9 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres,py,django,rabbitmq,api,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=" />
 </p>
 
 <hr>
@@ -67,8 +68,9 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=nginx,kubernetes,docker,postgres,apache,grafana,zabbix" />
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,windows,linux,elasticsearch,kibana,prometheus,redis,vmwareworkstation" />
+
 </p>
 
 <hr>
@@ -77,8 +79,7 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=adnroid" />
 </p>
 
 <hr>
@@ -87,8 +88,8 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=wireshark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,tmux,tor" />
 </p>
 
 <hr>
