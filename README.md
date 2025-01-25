@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mongodb,postgres,py,django,rabbitmq,fastapi" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,git,postman,figma" />
-  <img src="https://skillicons.dev/icons?i=" />
 </p>
 
 <hr>
